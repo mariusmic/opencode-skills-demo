@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "name": "how-to-bake-cake",
+      "version": "1",
+      "files": ["SKILL.md"]
+    },
+    {
+      "name": "how-to-make-pizza",
+      "version": "1",
+      "files": ["SKILL.md"]
+    }
+  ]
+}
